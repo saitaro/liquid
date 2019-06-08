@@ -1,3 +1,3 @@
 from django.test import TestCase
-a=123
+a=12
 # Create your tests here.
